@@ -86,3 +86,6 @@ LIMIT 10;
 - Pipeline ETL modular
 - Dashboard interaktif
 
+## Live Demo
+https://countries-etl-project-bzvcyx4t8apew83jcgjvnw.streamlit.app/
+
