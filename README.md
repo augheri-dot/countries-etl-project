@@ -1,8 +1,8 @@
 # Countries ETL Project
 Mini end-to-end data engineering project using Python, REST API, PostgreSQL, and Streamlit Cloud.
 
-## Deskripsi
-Project ini adalah mini ETL pipeline untuk mengambil data negara dan ibu kota dari API RestCountries, mentransformasi data, lalu menyimpannya ke Supabase PostgreSQL. Data kemudian divisualisasikan melalui dashboard Streamlit.
+## Description
+This project is a mini ETL pipeline that extracts country and capital city data from the RestCountries API, transforms the data, and loads it into a Supabase PostgreSQL database. The processed data is then visualized through an interactive Streamlit dashboard.
 
 ---
 
