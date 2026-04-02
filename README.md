@@ -5,6 +5,23 @@ Project ini adalah mini ETL pipeline untuk mengambil data negara dan ibu kota da
 
 ---
 
+## Impact
+- Successfully built an end-to-end ETL pipeline
+- Automated data ingestion from API to PostgreSQL
+- Deployed a live interactive dashboard using Streamlit Cloud
+
+---
+
+## Skills
+- Data Engineering (ETL)
+- API Integration
+- PostgreSQL
+- Data Transformation (Pandas)
+- Data Visualization (Streamlit)
+- Deployment (Streamlit Cloud)
+
+---
+
 ## Arsitektur
 API RestCountries → Python ETL → Supabase PostgreSQL → Streamlit Dashboard
 
