@@ -89,3 +89,5 @@ LIMIT 10;
 ## Live Demo
 https://countries-etl-project-bzvcyx4t8apew83jcgjvnw.streamlit.app/
 
+## Dashboard Preview
+<img src="dashboard.png" width="900">
